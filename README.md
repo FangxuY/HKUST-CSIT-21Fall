@@ -11,10 +11,8 @@ Hi there 👋
   5. (updating)
 - 📫 How to reach me: fabiany0021@gmail.com
 - ✈️ More details about me can be found here: https://fangxuy.github.io/
-- 🤙 If this repository help you, why not give me a star? Thanks a lot!
 - 🚡 Any suggestions are welcomed!
 - 🆘 MOST IMPORTANT! Academic integrity, don't plagiarize!
-
-## 如果这个仓库有帮助到你！请给我一个star吧！
+- 🤙 If this repository help you, why not give me a star? Thanks a lot!
 
 
