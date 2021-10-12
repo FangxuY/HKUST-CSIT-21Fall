@@ -1,6 +1,6 @@
-# CSIT-21Fall
+# CSIT-21Fall(please see master branch)
 
-Hi there 👋(please see master branch)
+Hi there 👋
 
 
 - 🔭 Here are some lectures, notes, homework, projects when I was studying in MSc(IT) HKUST
