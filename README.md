@@ -10,7 +10,7 @@ Hi there 👋
   4. CSIT 5930 Search Engine
   5. AI
   6. (updating)
-- 📫 How to reach me: fabiany0021@gmail.com
+- 📫 How to reach me: fyuanad@connect.ust.hk
 - ✈️ More details about me can be found here: https://fangxuy.github.io/
 - 🚡 Any suggestions are welcomed!
 - 🆘 MOST IMPORTANT! Academic integrity, don't plagiarize!
