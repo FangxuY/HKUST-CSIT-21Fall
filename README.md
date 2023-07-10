@@ -17,4 +17,6 @@ Hi there 👋
 - 🤙 If this repository help you, why not give me a star? Thanks a lot!
 - Expecting more contributors!!!
 
+## Updated
+At Jul. 10, 2023, 2 years after my graduation, I finally have time(remember) to upload all the materials to this repo, sorry for the late response, I hope that everyone could have a good time in HKUST, in Engineering, and in Information Technology.
 
