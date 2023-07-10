@@ -9,7 +9,7 @@ Hi there 👋
   3. CSIT 5910 Machine Learning
   4. CSIT 5930 Search Engine
   5. AI
-  6. (updating)
+  6. Past years
 - 📫 How to reach me: fyuanad@connect.ust.hk
 - ✈️ More details about me can be found here: https://fangxuy.github.io/
 - 🚡 Any suggestions are welcomed!
